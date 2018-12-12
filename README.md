@@ -42,8 +42,9 @@ to discuss, clarify, and foster an idea. We should examine with an open mind the
 Another part of the idea phase is asking the question "Should this be autonomous to the squads or enforced consistently in all squads?"
 
 ### Step 2 - Proposal
-A proposal is a pull request to this git repository. Here, an idea is debated and discussed by anyone who wants to participate. Reviewers can make comments
-asking for changes or they can challenge the basis of the proposal.
+A proposal is a pull request to this git repository. Here, an idea is debated and discussed by anyone who wants to participate.
+Reviewers can make comments asking for changes or they can challenge the basis of the proposal. The pull request number should
+be included in the proposal's markdown filename and inside of the file itself.
 
 If a pull request becomes stale (not updated or talked about after a fewish weeks), close it.
 
