@@ -11,6 +11,7 @@ frontend squads at Canopy are described.
 2. Something oppressively prescriptive.
 3. A technical review process where people get feedback on difficult problems they're facing. Although important, the RFC is not how
    technical reviews happen.
+4. A list of technical debt initiatives. This RFC explains the decisions we've made as a group for frontend, but doesn't track the progress of those decisions.
 
 ## Signs that this is working
 1. The content is up-to-date and people care about it.
