@@ -35,7 +35,7 @@ Propose a change to the process!
 
 ### Step 1 - Idea
 During the idea phase, we should encourage instead of critique. A person can use the #frontend-rfc slack channel
-to discuss, clarify, and foster an idea. We should with an open mind the pros and cons, options, and implementation.
+to discuss, clarify, and foster an idea. We should examine with an open mind the pros and cons, options, and implementation.
 
 Another part of the idea phase is asking the question "Should this be autonomous to the squads or enforced consistently in all squads?"
 
