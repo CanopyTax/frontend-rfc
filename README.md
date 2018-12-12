@@ -14,10 +14,9 @@ frontend squads at Canopy are described.
 
 ## Signs that this is working
 1. The content is up-to-date and people care about it.
-2. There are regular updates.
-3. Things are regularly removed.
-4. We change the process when it's annoying or doesn't work well.
-5. Ideas have a safe place to develop before being criticized.
+2. Things are removed when no longer relevant or correct.
+3. We change the process when it's annoying or doesn't work well.
+4. Ideas have a safe place to develop before being criticized.
 
 ## Signs that this isn't working
 1. This blocks people from getting stuff done.
@@ -25,6 +24,7 @@ frontend squads at Canopy are described.
 3. Changes are discouraged instead of encouraged.
 4. "Well that's just the way it is."
 5. The process is heavy, bureaucratic, or long.
+6. Some *other* process is being used to achieve the same thing.
 
 ## What to do if the RFC isn't working
 Propose a change to the process!
@@ -44,7 +44,7 @@ Another part of the idea phase is asking the question "Should this be autonomous
 A proposal is a pull request to this git repository. Here, an idea is debated and discussed by anyone who wants to participate. Reviewers can make comments
 asking for changes or they can challenge the basis of the proposal.
 
-If a pull request becomes stale, close it.
+If a pull request becomes stale (not updated or talked about after a fewish weeks), close it.
 
 ### Step 3 - Approval
 Once the author and reviewers have commented and the discussion and proposal have stabilized, the proposal will be merged or closed. The process for approval
