@@ -9,7 +9,8 @@ frontend squads at Canopy are described.
 ## What this isn't
 1. An infringement on the autonomy of squads. The idea is that if we're aligned on the few important things, we can be autonomous on everything else.
 2. Something oppressively prescriptive.
-3. A technical review process where people get feedback on difficult problems they're facing.
+3. A technical review process where people get feedback on difficult problems they're facing. Although important, the RFC is not how
+   technical reviews happen.
 
 ## Signs that this is working
 1. The content is up-to-date and people care about it.
@@ -51,5 +52,5 @@ will start out fairly loose and can be refined over time. To start out, we'll sh
 to make the decision if consensus doesn't happen.
 
 ### Step 4 - Implementation
-Once a proposal is merged, it is now part of the RFC. The changes or additions to the RFC apply to the whole frontend and we should plan to make whatever changes
-are necessary for this.
+Once a proposal is merged, it is now part of the RFC. The changes or additions to the RFC apply to the whole frontend and we should make whatever
+changes are needed to our code, processes, and organization.
