@@ -10,6 +10,8 @@ Only the master branch may be deployed to integration, staging, and production.
 Other branches only exist for code reviews and should only have one person committing to them. The master branch must
 be production ready at all times, even when a feature is still being worked on.
 
+This is also known "trunk based development," which is described at https://trunkbaseddevelopment.com.
+
 ## Reason for decision
 - This is a Canopy-wide stance for both backend and frontend development.
 - See [google doc from 2016](https://docs.google.com/document/d/1_mgzp0gSO-LZV5UlFCEWtyCILyBEDorijuyqZhwXXr4).
@@ -18,8 +20,9 @@ be production ready at all times, even when a feature is still being worked on.
 ## Alternatives
 Git Flow is a popular alternative to master based development, along with a variety of other branching schemes.
 
-See [this medium article](https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf) for a decent assessment of
-branching schemes (we are similar to the "Gitlab Flow" in that article).
+See [this explanation](https://trunkbaseddevelopment.com/alternative-branching-models/) and
+[this medium article](https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf) for a decent assessment of
+branching schemes (we are similar to the "Gitlab Flow" in the second article).
 
 ## Common practices (not enforced)
 - Use feature toggles so that the master branch is production-ready while still keeping code reviews small.
