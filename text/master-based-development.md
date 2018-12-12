@@ -7,7 +7,7 @@ All squads should use master based development as their branching scheme for dep
 
 ## Definition
 Only the master branch may be deployed to integration, staging, and production.
-Other branches only exist for code reviews, not for other devs to write code for. The master branch must
+Other branches only exist for code reviews and should only have one person committing to them. The master branch must
 be production ready at all times, even when a feature is still being worked on.
 
 ## Reason for decision

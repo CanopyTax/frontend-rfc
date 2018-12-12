@@ -29,7 +29,7 @@ frontend squads at Canopy are described.
 ## What to do if the RFC isn't working
 Propose a change to the process!
 
-## Process for change
+# Process for change
 **Anyone** at Canopy can propose a change.
 
 <img src="https://mk0radicalcandov3r1t.kinstacdn.com/wp-content/uploads/2017/02/gsd-wheel.png" width="300" />
