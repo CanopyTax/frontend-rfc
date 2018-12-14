@@ -1,3 +1,5 @@
+(Feel free to deviate from this template or ignore it completely!)
+
 # Project title
 - Start Date: Put Start Date Here
 - RFC PR: Link to original PR: https://github.com/CanopyTax/frontend-rfc/pull/1
