@@ -20,6 +20,7 @@ best tools to "bubble up", rather than be selected and pushed "top down".
 - It could become the wild west of frameworks, where each squad uses frameworks/tools that no one else has any familiarity with.
 - Bundle size if multiple frameworks need to be downloaded
 - Could affect hiring (Squad X has an opening but they use Framework Y so we have to hire a Y specialist)
+- Standardized and sharable components / styles
 
 ## Squad vs Chapter vs Frontend-wide
 All chapters should standardize on our supported frameworks.
