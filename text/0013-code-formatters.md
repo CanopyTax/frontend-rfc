@@ -6,7 +6,7 @@
 Each squad may choose whether to use a code formatter and, if so, which one to use.
 
 ## Definition
-A code formatter is a tool that changes all source code in a project in a consistent way.
+A code formatter is a tool that changes source code to have consistent indentation, styling, and formatting.
 
 ## Reason for decision
 - There has traditionally been a difference in opinion about code formatters, so making it autonomous to squads is a decent compromise.
