@@ -43,8 +43,7 @@ Another part of the idea phase is asking the question "Should this be autonomous
 
 ### Step 2 - Proposal
 A proposal is a pull request to this git repository. Here, an idea is debated and discussed by anyone who wants to participate.
-Reviewers can make comments asking for changes or they can challenge the basis of the proposal. The pull request number should
-be included in the proposal's markdown filename and inside of the file itself.
+Reviewers can make comments asking for changes or they can challenge the basis of the proposal.
 
 If a pull request becomes stale (not updated or talked about after a fewish weeks), close it.
 
