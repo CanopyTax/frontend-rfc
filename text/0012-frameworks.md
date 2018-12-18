@@ -63,11 +63,17 @@ We're currently moving away from AngularJS and have bubble-up standardized on Re
 Svelte but they aren't something we're fully committed to introducing into our application yet.
 
 ## Introducing a new framework
-This is something that isn't well defined yet. Previous discussions have lead to a loose process resembling this:
+The core principle here is intentionality. We want to have a base level of familiarity across the entire frontend so anyone 
+can commit to another squads project with relative ease.
 
-  - Evaluate options (squad)
-  - Build Squad consensus
-  - Discuss it with Chapter lead
-  - Build some consensus frontend-wide
-  - Get approval from chapter leads
-  - Schedule a frontend training on the new framework.
+At the squad level you'll need to do the following:
+- Build squad consensus
+- Find a small but meaningful area where a framework experiment could fit.
+- Experiment freely, keeping in mind the challenges of interop between frameworks
+
+If the experiment is successful and your squad wants to push to make the framework one of Canopy's fully supported frameworks 
+do the following at the frontend organization level
+- Pitch the framework
+- Discuss how it would fit in our organization
+- Get approval from Chapter leads (and eventually the technical track)
+- Schedule a few trainings with the frontend chapter.
