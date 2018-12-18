@@ -1,4 +1,4 @@
-# Project title
+# Code formatters
 - Start Date: Mid 2016
 - RFC PR: https://github.com/CanopyTax/frontend-rfc/pull/13
 
