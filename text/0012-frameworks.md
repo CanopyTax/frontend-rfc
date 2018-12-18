@@ -8,7 +8,7 @@ in [Introducing a new framework](#introducing-a-new-framework).
 ## Definition
 A UI framework is a library that creates DOM elements (e.g. React, Angular, Vue). Most of the most popular frameworks have an
 implmentation of a "component" building block for creating user interfaces. On the frontend at Canopy we've embraced 
-microservices that could be written in any framework instead of a single framework that everything must be built in.
+microservices that could be written in any framework (polyglot) instead of a single framework that everything must be built in.
 
 ## Reason for decision
 Whenever a single framework is chosen it becomes the "core" of the application. It pushes us towards a single ecosystem and 
@@ -47,7 +47,7 @@ respond to an alert.
 ### Managing our cons
 - Limit ["fully supported"](supported-frameworks) frameworks
 - Code splits and lazy loading
-- Use webcomponents for leaf nodes
+- Use webcomponents for styleguide components so any framework can use them
 - Invest in tooling and DX (developer experience)
 
 ## Supported Frameworks
