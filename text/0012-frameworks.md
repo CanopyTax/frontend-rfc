@@ -51,8 +51,8 @@ respond to an alert.
 - Invest in tooling and DX (developer experience)
 
 ## Supported Frameworks
-### definition
-A suppoted framework at Canopy is one that is already being used extensively. You can expect an easier path when using these 
+### Definition
+A supported framework at Canopy is one that is already being used extensively. You can expect an easier path when using these 
 frameworks since there is already a lot of infrastructure and tooling in place for them. When choosing a framework to use 
 for a project, the supported frameworks can be used without going through the [Introducing a New Framework process](#introducing-a-new-framework)
 ### Fully Supported Frameworks
