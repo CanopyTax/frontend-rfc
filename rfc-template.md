@@ -2,7 +2,7 @@
 
 # Project title
 - Start Date: Put Start Date Here
-- RFC PR: Link to original PR: https://github.com/CanopyTax/frontend-rfc/pull/1
+- RFC PR: https://github.com/CanopyTax/frontend-rfc/pull/1
 
 ## Squad vs Chapter vs Frontend-wide
 Example:
