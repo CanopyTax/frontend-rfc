@@ -21,7 +21,5 @@ A code formatter is a tool that changes source code to have consistent indentati
   This makes it so people don't have to remember to run it everytime they push code.
 - If your squad is using a code formatter, consider having the build fail if the source code does not match the formatted code.
   See [Prettier's Integration with eslint](https://prettier.io/docs/en/eslint.html) for more details.
-- Consider turning off your IDE's code formatting when authoring code for projects that do not enforce a code formatter. This avoids code reviews where the reviewers
+- Consider turning off your IDE's code formatting and Prettier when authoring code for projects that do not enforce a code formatter. This avoids code reviews where the reviewers
   are sifting through stylistic changes to find actual changes.
-- If submitting a merge request to another squad that does not use Prettier, do not run prettier on all of the files you touch, since that makes it hard to review
-  and will make the git blame less useful.
